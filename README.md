@@ -1,4 +1,4 @@
-## ⭐ My First React App  with Chakra-UI⭐
+## ⭐ My First Video Hub App with React  with Chakra-UI⭐
 Projects was created during learning react.
 
 <br>
